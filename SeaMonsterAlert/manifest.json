@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Crocus Crew Sea Monster Alert",
+  "Author": "violetlizabet",
+  "Version": "2.0.0",
+  "Description": "Find us that monster!!",
+  "UniqueID": "violetlizabet.seaMonster",
+  "EntryDll": "SeaMonsterAlert.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
