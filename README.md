@@ -1,6 +1,6 @@
 # Sea Monster Alert
 
-This mod adds visual and audio notice when the rare [green sea creature](https://stardewvalleywiki.com/Secrets#Beach_Creature) appears at the beach. Created for the winter 2023 Stardew Discord team event. 
+This mod adds visual and audio notice when the rare [green sea creature](https://stardewvalleywiki.com/Secrets#Beach_Creature) appears at the beach. Created for the winter 2023 Stardew Discord team event to support the Crocus Crew finding the green sea creature!
 
 Config options:
 * `doBeachWarp`: warps you to the beach in front of Willy's shop at the start of the day
