@@ -5,6 +5,6 @@
   "Description": "Find us that monster!!",
   "UniqueID": "violetlizabet.seaMonster",
   "EntryDll": "SeaMonsterAlert.dll",
-  "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": []
+  "MinimumApiVersion": "4.0.0-alpha",
+  "UpdateKeys": ["Nexus:20486","GitHub:elizabethcd/SeaMonsterAlert"]
 }
